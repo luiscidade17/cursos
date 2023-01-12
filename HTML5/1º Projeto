@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!--Formato HTML -->
+<html>
+
+<!-- Cabeça do Site -->
+	<head> 
+		<!--Titulo do Site -->
+		<title> Meu site</title>
+		<!--Acentuação Padrão do Site -->
+		<meta charset="utf-8">
+	</head>
+<!--Corpo do Site -->
+	<body>
+		<!--Strong= Frase em negrito -->
+		Esse é um texto a <strong>negrito</strong> <br>
+		<!--em= Frase em itálico -->
+		Esse é um texto a <em>itálico</em> <br>
+		<!--u= Sublinhado -->
+		Esse é um texto a <u>sublinhado</u> <br>
+		<!--strike= Riscado -->
+		Esse é um texto a <strike> riscado</strike> <br>
+
+<!--Encerra Corpo -->
+	</body>
+
+
+</html>
